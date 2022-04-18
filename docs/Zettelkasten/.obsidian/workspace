@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "5d7a08426846277b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7823ad23f4fc76b",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37902bad3cd54387",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcee733e9c797035",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "047bdab4fbeaa8da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fdaca713d771fea3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bae1365a096b62b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "698389336e8608ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a51e194f7752ed59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f7823ad23f4fc76b",
+  "lastOpenFiles": [
+    "Templates/Map of Content.md",
+    "Templates/Note Template.md",
+    "Fleeting Notes/Do You Like React? Then Why Don’t You Configure Your Infrastructure With It?.md",
+    "Project/Became a full-stack developer.md",
+    "Fleeting Notes/How to Build and Deploy a Full-Stack React-App.md",
+    "Literature Notes/How to Build and Deploy a Full-Stack React-App.md",
+    "Permanent Notes/Goal for becoming a full-stack freelancer.md",
+    "Permanent Notes/What skills are required?.md",
+    "Permanent Notes/What is full-stack developer freelancer ?.md",
+    "Permanent Notes/What are the benefits of becoming a freelancer developer?.md"
+  ]
+}
